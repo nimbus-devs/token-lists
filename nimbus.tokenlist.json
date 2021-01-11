@@ -1,8 +1,8 @@
 {
-  "name": "Compound",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "name": "Nimbus Default List",
+  "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg",
   "keywords": [
-    "compound",
+    "nimbus",
     "defi"
   ],
   "timestamp": "2020-09-03T12:37:57.000+00:00",
