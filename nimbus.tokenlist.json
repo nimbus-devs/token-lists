@@ -166,6 +166,22 @@
     },
     {
       "chainId": 3,
+      "address": "0xcF0D258Ece3AAE5b619963C23048981A7e65989a",
+      "name": "Nimbus",
+      "symbol": "NBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg"
+    },
+    {
+      "chainId": 3,
+      "address": "0x79ec890d81c2b0de7e7f0a3e87cc8a1a94b9a52f",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 3,
       "address": "0xE4C6182EA459E63B8F1be7c428381994CcC2D49c",
       "name": "0x Protocol Token",
       "symbol": "ZRX",
@@ -195,14 +211,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x516de3a7A567d81737e3a46ec4FF9cFD1fcb0136",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
       "chainId": 3,
