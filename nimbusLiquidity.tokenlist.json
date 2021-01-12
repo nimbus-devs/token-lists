@@ -1,11 +1,11 @@
 {
-  "name": "Nimbus Liquidity List",
+  "name": "Nimbus Tokens List",
   "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg",
   "keywords": [
     "nimbus",
     "defi"
   ],
-  "timestamp": "2021-01-12T12:37:57.000+00:00",
+  "timestamp": "2021-01-11T12:37:57.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -716,6 +716,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
