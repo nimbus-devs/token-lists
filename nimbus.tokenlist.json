@@ -5,8 +5,16 @@
     "nimbus",
     "defi"
   ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "timestamp": "2021-01-12T12:37:57.000+00:00",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xc31a798a2C761338F4E95b2053f309C698ff8814",
+      "name": "Nimbus",
+      "symbol": "NBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg"
+    },
     {
       "chainId": 1,
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
