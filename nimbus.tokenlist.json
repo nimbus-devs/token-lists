@@ -1,5 +1,5 @@
 {
-  "name": "Nimbus Default List",
+  "name": "Nimbus Liquidity List",
   "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg",
   "keywords": [
     "nimbus",
@@ -716,6 +716,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 0
   }
 }
