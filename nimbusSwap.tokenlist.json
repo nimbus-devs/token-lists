@@ -5,7 +5,7 @@
     "nimbus",
     "defi"
   ],
-  "timestamp": "2021-01-16T13:37:57.000+00:00",
+  "timestamp": "2021-01-17T13:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -40,7 +40,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xc31a798a2C761338F4E95b2053f309C698ff8814",
+      "address": "0x0BbB61A46Cf52140781FbAAAF027323CADAFC905",
       "name": "Nimbus",
       "symbol": "NBU",
       "decimals": 18,
@@ -73,6 +73,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
