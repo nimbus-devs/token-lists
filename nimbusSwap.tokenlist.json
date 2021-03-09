@@ -17,6 +17,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x21AFF2C46C3AB351F18555deb2396284aC7aDC84",
+      "name": "Nimbus Governance Token",
+      "symbol": "GNBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/gnbu.jpg"
+    },
+    {
+      "chainId": 1,
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -45,6 +53,14 @@
       "symbol": "NBU",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg"
+    },
+    {
+      "chainId": 3,
+      "address": "0x21AFF2C46C3AB351F18555deb2396284aC7aDC84",
+      "name": "Nimbus Governance Token",
+      "symbol": "GNBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/gnbu.jpg"
     },
     {
       "chainId": 3,

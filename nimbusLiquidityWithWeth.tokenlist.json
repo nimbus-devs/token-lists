@@ -18,7 +18,7 @@
       {
         "chainId": 1,
         "address": "0x21AFF2C46C3AB351F18555deb2396284aC7aDC84",
-        "name": "GNBU",
+        "name": "Nimbus Governance Token",
         "symbol": "GNBU",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/gnbu.jpg"
@@ -199,7 +199,7 @@
       {
         "chainId": 1,
         "address": "0x21AFF2C46C3AB351F18555deb2396284aC7aDC84",
-        "name": "GNBU",
+        "name": "Nimbus Governance Token",
         "symbol": "GNBU",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/gnbu.jpg"
