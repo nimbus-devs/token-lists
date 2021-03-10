@@ -5,7 +5,7 @@
     "nimbus",
     "defi"
   ],
-  "timestamp": "2021-01-21T15:00:00.000+00:00",
+  "timestamp": "2021-03-10T21:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x28fd5f6C915c7438B8Cf9E2f682883F79875520C",
+      "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
       "name": "Nimbus Governance Token",
       "symbol": "GNBU",
       "decimals": 18,
@@ -190,7 +190,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x28fd5f6C915c7438B8Cf9E2f682883F79875520C",
+      "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
       "name": "Nimbus Governance Token",
       "symbol": "GNBU",
       "decimals": 18,
@@ -731,7 +731,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
-    "patch": 3
+    "minor": 2,
+    "patch": 0
   }
 }
