@@ -5,7 +5,7 @@
     "nimbus",
     "defi"
   ],
-  "timestamp": "2021-04-15T12:00:00.000+00:00",
+  "timestamp": "2021-04-15T13:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -727,35 +727,11 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0xe3ab8aA9AA9C890028D62bC084491f8274b24e88",
-      "name": "Nimbus",
-      "symbol": "NBU",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/nimbus.jpg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
-      "name": "Nimbus Governance Token",
-      "symbol": "GNBU",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/gnbu.jpg"
-    },
-    {
-      "chainId": 97,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     }
   ],
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }
