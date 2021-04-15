@@ -103,7 +103,7 @@
     },
     {
       "chainId": 97,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "address": "0x8F3902256BCC47D0D1a8aF8Cf9b2F679CdF3cC47",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
@@ -112,7 +112,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
