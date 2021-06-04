@@ -83,7 +83,8 @@
       "address": "0xBde8bB00A7eF67007A96945B3a3621177B615C44",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/wbtc.svg"
     },
     {
       "chainId": 97,
