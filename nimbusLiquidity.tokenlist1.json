@@ -730,7 +730,7 @@
       },
       {
         "chainId": 97,
-        "address": "0xe3ab8aA9AA9C890028D62bC084491f8274b24e88",
+        "address": "0x5f20559235479F5B6abb40dFC6f55185b74E7b55",
         "name": "Nimbus",
         "symbol": "NBU",
         "decimals": 18,
@@ -738,7 +738,7 @@
       },
       {
         "chainId": 97,
-        "address": "0x091fBa22Fc1fa78c50Dee12364EFD5e47803321b",
+        "address": "0xA4d872235dde5694AF92a1d0df20d723E8e9E5fC",
         "name": "Nimbus Governance Token",
         "symbol": "GNBU",
         "decimals": 18,
