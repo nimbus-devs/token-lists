@@ -104,9 +104,9 @@
     },
     {
       "chainId": 97,
-      "address": "0x8F3902256BCC47D0D1a8aF8Cf9b2F679CdF3cC47",
-      "name": "USDT",
-      "symbol": "USDT",
+      "address": "0x8f19d1A7596F5c81ce01718f395C640908990536",
+      "name": "BUSD",
+      "symbol": "BUSD",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
