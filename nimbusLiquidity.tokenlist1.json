@@ -749,7 +749,7 @@
         "address": "0x8f19d1A7596F5c81ce01718f395C640908990536",
         "name": "BUSD",
         "symbol": "BUSD",
-        "decimals": 6,
+        "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
       },
       {
