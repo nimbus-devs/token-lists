@@ -750,7 +750,7 @@
         "name": "BUSD",
         "symbol": "BUSD",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/busd.png"
       },
       {
         "chainId": 56,
@@ -774,12 +774,12 @@
         "name": "BUSD",
         "symbol": "BUSD",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/busd.png"
       }
     ],
     "version": {
       "major": 0,
-      "minor": 4,
+      "minor": 5,
       "patch": 0
     }
   }
