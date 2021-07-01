@@ -108,7 +108,7 @@
       "name": "BUSD",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/busd.png"
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/busd.png"
     },
     {
       "chainId": 56,
@@ -132,14 +132,14 @@
       "name": "BUSD",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/busd.png"
+      "logoURI": "https://raw.githubusercontent.com/nimbus-devs/token-lists/master/busd.png"
     }
     
     
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
